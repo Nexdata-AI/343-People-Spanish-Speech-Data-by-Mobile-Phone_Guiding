@@ -4,7 +4,7 @@
 ## Description
 This speech data is collected from 343 Spanish native speakers who from Spain, Mexico and Argentina. 50 sentences for each speaker, total 9.9 hours. The recording environment is quiet. Alltexts are amnually transcribed with high accuracy. Recording devices are mainstream Android phones and iPhones. It can be used for speech recogntion, machine translation and voiceprint recognition.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/117?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/117?source=Github
 
 
 ## Format
